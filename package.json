@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  },
+  "type": "module"
+}
